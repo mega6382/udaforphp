@@ -1,10 +1,10 @@
 #summary The Project's CLA. Currently Under Construction
 
-= IMPOTANT =
+= IMPORTANT =
 
 This document is not final, and is currently open for discussion.
 
-___
+----
 
 = Unified Database Access for PHP (UDA4PHP) Contributor License Agreement =
 
@@ -53,5 +53,10 @@ The Code You contribute is provided by You "as is" and any express or implied wa
 If You contribute Code on behalf of Your employer, then You must confirm that an appropriate representative of that employer has authorized the inclusion of such Code in a Mozilla Foundation 
 repository under the terms of this agreement. 
 
-Signed: Date: 
+Signed: 
+
+Date: 
+
 Printed Name:
+
+----
