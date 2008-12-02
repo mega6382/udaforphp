@@ -24,7 +24,7 @@ Postal Address:
 
 == 2. Treatment of Account ==
 
-You will receive one or more sets of UDA4PHP project access credentials. You will not allow anyone else to use these credentials to access any Mozilla project system. Should You become aware of any such use, You will immediately notify BP in writing; until such notice is received You will be presumed to have taken all actions made using Your credentials. BP and their designates will have complete control and discretion over capabilities associated with Your credentials and may change them for any reason at any time. Your name and email address, or a derivative of it, may be visible worldwide via the Internet. 
+You will receive one or more sets of UDA4PHP project access credentials. You will not allow anyone else to use these credentials to access any UDA4PHP project system. Should You become aware of any such use, You will immediately notify BP in writing; until such notice is received You will be presumed to have taken all actions made using Your credentials. BP and their designates will have complete control and discretion over capabilities associated with Your credentials and may change them for any reason at any time. Your name and email address, or a derivative of it, may be visible worldwide via the Internet. 
 
 == 3. License Terms ==
 
@@ -50,8 +50,7 @@ By contributing Code, You confirm that, to the best of Your knowledge, the Code 
 
 The Code You contribute is provided by You "as is" and any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose are disclaimed. 
 
-If You contribute Code on behalf of Your employer, then You must confirm that an appropriate representative of that employer has authorized the inclusion of such Code in a Mozilla Foundation 
-repository under the terms of this agreement. 
+If You contribute Code on behalf of Your employer, then You must confirm that an appropriate representative of that employer has authorized the inclusion of such Code in the BP repository under the terms of this agreement. 
 
 Signed: 
 
