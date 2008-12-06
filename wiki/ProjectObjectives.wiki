@@ -10,9 +10,9 @@ The goal of UDA4PHP is _not_ to provide database abstraction, but to provide dat
 
 There are several steps that we have identified as a roadmap to completing the library:
 
- # *Agree on a CLA*—this is currently [ClaDiscussion in progress].
- # *Agree on functionality constraints*—we need to decide _what_ we want the library to do.
- # *Design the library*—based on our technical objectives, we will design the overall library.
- # *Write the library*—clearly the easiest part :-)
- # *Write a driver*—we should probably decide on a reference implementation for a driver
- # *Write the documentation*—for both driver designers and users
+ # *Agree on a CLA* —this is currently [ClaDiscussion in progress].
+ # *Agree on functionality constraints* —we need to decide _what_ we want the library to do.
+ # *Design the library* —based on our technical objectives, we will design the overall library.
+ # *Write the library* —clearly the easiest part :-)
+ # *Write a driver* —we should probably decide on a reference implementation for a driver
+ # *Write the documentation* —for both driver designers and users
